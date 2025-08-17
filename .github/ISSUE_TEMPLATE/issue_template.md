@@ -3,7 +3,7 @@ name: General issue
 about: Use this template to report any type of issue or request
 title: "[Issue] "
 labels: ''
-assignees: ''
+assignees: 'aksis'
 
 ---
 
